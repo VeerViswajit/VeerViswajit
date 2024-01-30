@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/{{VeerViswajit}}/achievements?format=svg&limit=3" width="350" />
+</p>
+
 
 <!--
 **VeerViswajit/VeerViswajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
