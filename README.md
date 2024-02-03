@@ -3,6 +3,10 @@
   <img src="https://api.vaunt.dev/v1/github/entities/VeerViswajit/achievements?format=svg&limit=3" width="350" />
 </p>
 
+<p>
+    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="250"/>
+</p>
+
 
 <!--
 **VeerViswajit/VeerViswajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
