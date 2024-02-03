@@ -4,7 +4,7 @@
 </p>
 
 <p>
-    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="250"/>
+    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="150"/>
 </p>
 
 
